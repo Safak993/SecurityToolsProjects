@@ -1,8 +1,8 @@
 <div align="center">
 
-# Safak993 Güvenlik & Sistem Araçları
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="120" alt="Python" />
 
-<img src="https://skillicons.dev/icons?i=py" height="300" alt="Python" />
+# Şafak'ın Güvenlik & Sistem Araçları
 
 <p>
   <img src="https://img.shields.io/badge/Textual-TUI-purple?style=for-the-badge&logo=python&logoColor=white"/>
