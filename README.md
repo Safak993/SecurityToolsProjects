@@ -1,4 +1,4 @@
-<h1 align="center">🐍 Safak993 Güvenlik & Sistem araçları 🐍</h1>
+<h1 align="center"> Safak993 Güvenlik & Sistem araçları </h1>
 
 
 <div align="center">
