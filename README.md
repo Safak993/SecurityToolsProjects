@@ -1,4 +1,4 @@
-# 🛡️ Safak993 Güvenlik & Sistem Araçları
+# <span style="color:#00d2ff"># 🛡️ Safak993 Güvenlik & Sistem Araçları</span>
 
 
 <div align="center">
