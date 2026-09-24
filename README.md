@@ -2,7 +2,7 @@
 
 # Safak993 Güvenlik & Sistem Araçları
 
-<img src="https://skillicons.dev/icons?i=py" height="120" alt="Python" />
+<img src="https://skillicons.dev/icons?i=py" height="300" alt="Python" />
 
 <p>
   <img src="https://img.shields.io/badge/Textual-TUI-purple?style=for-the-badge&logo=python&logoColor=white"/>
