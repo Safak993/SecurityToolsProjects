@@ -1,5 +1,7 @@
 # 🛡️ Şafak'ın Güvenlik & Sistem Araçları
-| **Core Language** | <img src="https://skillicons.dev/icons?i=py" height="100"  /> |
+| **Category** |
+| :--- | :--- |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=py" height="100"  /> |
 <p align="center">
   
   <img src="https://img.shields.io/badge/Textual-TUI-purple?style=for-the-badge&logo=python&logoColor=white"/>
