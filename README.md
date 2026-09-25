@@ -22,7 +22,7 @@
 
 ---
 
-> **Bu repo, internet gerektirmeyen, tamamen terminal tabanlı, mimari ve görsel olarak tatmin edici güvenlik, sistem ve TUI araçlarımı içerir. Her proje kendi klasöründe, açıklamasıyla birlikte yer almaktadır.**
+> **Bu repo, çok fazla internet gerektirmeyen, terminal tabanlı, mimari ve görsel olarak tatmin edici güvenlik, sistem ve TUI araçlarımı içerir. Her proje kendi klasöründe, açıklamasıyla birlikte yer almaktadır.**
 
 ---
 
