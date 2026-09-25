@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/OS-System-lightgrey?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pathlib-Path-yellow?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/json-data-8A2BE2?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=FFD100"/>
+  <img src="https://img.shields.io/badge/Msvcrt-Control-red?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
 
 </div>
