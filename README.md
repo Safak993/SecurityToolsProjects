@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/Psutil-System-orange?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/OS-System-lightgrey?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pathlib-Path-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Requests-2155E1?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Requests" />
   <img src="https://img.shields.io/badge/json-data-8A2BE2?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=FFD100"/>
   <img src="https://img.shields.io/badge/flask-%20web-0A2540?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=00B4D8"/>
   <img src="https://img.shields.io/badge/Msvcrt-Control-red?style=for-the-badge&logo=python&logoColor=black"/>
