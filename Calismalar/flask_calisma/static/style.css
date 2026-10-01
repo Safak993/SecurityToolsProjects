@@ -1,0 +1,126 @@
+body {
+    background-color: #404153;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+}
+
+.guvenli,
+.ozelkarakter,
+.buyukharf,
+.rakam,
+.buyukluk,
+.bekleniyor,
+.input,
+.gonderbuton {
+    position: relative;
+    padding: 14px 28px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ffffff;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    box-shadow: 0 4px 15px rgba(168, 85, 247, 0.4);
+}
+
+.bekleniyor {
+    background: linear-gradient(135deg, #404153, #312c36, #5a5a5a);
+}
+
+.buyukluk {
+    background: linear-gradient(135deg, #f00303, #b91b1b, #660101);
+}
+
+.rakam {
+    background: linear-gradient(135deg, #e77529, #e66109, #6b2801);
+}
+
+.buyukharf {
+    background: linear-gradient(135deg, #034964, #072057, #270c66);
+}
+
+.ozelkarakter {
+    background: linear-gradient(135deg, #03c298, #028161, #17e2b6);
+}
+
+.guvenli {
+    background: linear-gradient(135deg, #38fa1e, #38f100, #029402);
+}
+
+.input,
+.gonderbuton {
+    background: linear-gradient(135deg, #6366f1, #a855f7, #ec4899);
+}
+
+.guvenli::before,
+.ozelkarakter::before,
+.buyukharf::before,
+.rakam::before,
+.buyukluk::before,
+.bekleniyor::before,
+.input::before,
+.gonderbuton::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg,
+            transparent,
+            rgba(255, 255, 255, 0.25),
+            transparent);
+    transition: 0.5s;
+}
+
+.guvenli.input:hover::before,
+.ozelkarakter.input:hover::before,
+.buyukharf.input:hover::before,
+.rakam.input:hover::before,
+.buyukluk.input:hover::before,
+.bekleniyor:hover::before,
+.input:hover::before,
+.gonderbuton:hover::before {
+    left: 100%;
+}
+
+.guvenli:hover,
+.ozelkaratker:hover .buyukharf:hover,
+.rakam:hover,
+.buyukluk:hover,
+.bekleniyor:hover,
+.input:hover,
+.gonderbuton:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(168, 85, 247, 0.6);
+}
+
+.guvenli:active,
+.ozelkaratker:active,
+.buyukharf:active,
+.rakam:active,
+.buyukluk:active,
+.bekleniyor:active,
+.input:active,
+.gonderbuton:active {
+    transform: translateY(1px);
+    box-shadow: 0 2px 10px rgba(168, 85, 247, 0.4);
+}

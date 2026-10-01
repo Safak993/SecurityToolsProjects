@@ -4,11 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>FlaskCalisma</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <form method="post">
-        <input type="password", name="sifre">
-        <button type="submit">Gönder</button>
-    </form>
+    <div class="container">
+        <form method="post", class="form">
+            <input type="password", name="sifre", class="input">
+            <button type="submit", class="gonderbuton">Gönder</button>
+        </form>
+        <div class="{{ sinif_adi }}">{{ sonuc }}</div>
+    </div>
 </body>
 </html>
