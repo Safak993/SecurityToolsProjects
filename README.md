@@ -9,8 +9,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Aktif-success?style=for-the-badge"/>
-  [![wakatime](https://wakatime.com/badge/user/ba3d85c2-97d4-428b-a80d-d91bc0b4b45f/project/5326c28c-b361-47bc-8196-ae178dffe079.svg)](https://wakatime.com/badge/user/ba3d85c2-97d4-428b-a80d-d91bc0b4b45f/project/5326c28c-b361-47bc-8196-ae178dffe079)
 </p>
+[![wakatime](https://wakatime.com/badge/user/ba3d85c2-97d4-428b-a80d-d91bc0b4b45f/project/5326c28c-b361-47bc-8196-ae178dffe079.svg)](https://wakatime.com/badge/user/ba3d85c2-97d4-428b-a80d-d91bc0b4b45f/project/5326c28c-b361-47bc-8196-ae178dffe079)
 
 
 
